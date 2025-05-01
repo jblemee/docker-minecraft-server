@@ -3,10 +3,17 @@ services:
     image: itzg/minecraft-server
     environment:
       EULA: "true"
+      VERSION: latest
+      TYPE: NEOFORGE
+      NEOFORGE_VERSION: beta
+#      MODPACK_PLATFORM: MODRINTH
+#      MODRINTH_MODPACK: https://modrinth.com/modpack/plus200-modpack/version/1.0.0
+      MODS_FILE: /extras/mods.txt
     ports:
       - "25565:25565"
     volumes:
-      - data:/data
+      - ./data:/data
+      - ./mods.txt:/extras/mods.txt:ro
     stdin_open: true
     tty: true
     restart: unless-stopped
