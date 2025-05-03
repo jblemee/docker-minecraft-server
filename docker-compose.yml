@@ -1,5 +1,5 @@
 services:
-  mc:
+  mc_1_21_5:
     image: itzg/minecraft-server
     environment:
       EULA: "true"
@@ -8,14 +8,106 @@ services:
       NEOFORGE_VERSION: beta
 #      MODPACK_PLATFORM: MODRINTH
 #      MODRINTH_MODPACK: https://modrinth.com/modpack/plus200-modpack/version/1.0.0
-      MODS_FILE: /extras/mods.txt
+#      MODS_FILE: /extras/mods.txt
+      MODS: |
+        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
     ports:
       - "25565:25565"
     volumes:
       - ./data:/data
-      - ./mods.txt:/extras/mods.txt:ro
+      - ./mods_1_21_5.txt:/extras/mods.txt:ro
+      - ../:/mc-mods
     stdin_open: true
     tty: true
     restart: unless-stopped
+
+  mc_1_21_1:
+    image: itzg/minecraft-server
+    environment:
+      EULA: "true"
+      VERSION: "1.21.1"
+      TYPE: NEOFORGE
+      NEOFORGE_VERSION: latest
+#      MODS_FILE: /extras/mods.txt
+#      FORGE_FORCE_REINSTALL: true
+      MODS: |
+        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.1.jar
+    ports:
+      - "25565:25565"
+    volumes:
+      - ./data_1_21_1:/data
+      - ./mods_1_21_1.txt:/extras/mods.txt:ro
+      - ../:/mc-mods
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+
+  mc_1_21_2:
+    image: itzg/minecraft-server
+    environment:
+      EULA: "true"
+      VERSION: "1.21.2"
+      TYPE: NEOFORGE
+      NEOFORGE_VERSION: beta
+      #      MODS_FILE: /extras/mods.txt
+      #      FORGE_FORCE_REINSTALL: true
+      MODS: |
+        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
+    ports:
+      - "25565:25565"
+    volumes:
+      - ./data_1_21_2:/data
+      - ./mods_1_21_2.txt:/extras/mods.txt:ro
+      - ../:/mc-mods
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+
+  mc_1_21_3:
+    image: itzg/minecraft-server
+    environment:
+      EULA: "true"
+      VERSION: "1.21.3"
+      TYPE: NEOFORGE
+      NEOFORGE_VERSION: beta
+      #      MODS_FILE: /extras/mods.txt
+      #      FORGE_FORCE_REINSTALL: true
+      MODS: |
+        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
+    ports:
+      - "25565:25565"
+    volumes:
+      - ./data_1_21_3:/data
+      - ./mods_1_21_3.txt:/extras/mods.txt:ro
+      - ../:/mc-mods
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+
+  mc_1_21_4:
+    image: itzg/minecraft-server
+    environment:
+      EULA: "true"
+      VERSION: "1.21.4"
+      TYPE: NEOFORGE
+      NEOFORGE_VERSION: latest
+#      MODS_FILE: /extras/mods.txt
+#      FORGE_FORCE_REINSTALL: true
+      MODS: |
+        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
+    ports:
+      - "25565:25565"
+    volumes:
+      - ./data_1_21_4:/data
+      - ../:/mc-mods
+      - ./mods_1_21_4.txt:/extras/mods.txt:ro
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+
 volumes:
   data: {}
+  data_1_21_1: {}
+  data_1_21_2: {}
+  data_1_21_3: {}
+  data_1_21_4: {}

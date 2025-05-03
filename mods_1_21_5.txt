@@ -1,0 +1,4 @@
+https://cdn.modrinth.com/data/pTE78v48/versions/F6NITZwQ/brokentoolmod-1.21.5.jar
+https://cdn.modrinth.com/data/nCtVPPGi/versions/lWpeKGgQ/chickenfeathermod-1.21.4.jar
+https://cdn.modrinth.com/data/IBWJ6GFS/versions/oJMtu85E/richstonermod-1.21.4.jar
+https://cdn.modrinth.com/data/d02pnaNW/versions/dehMuiwP/permadeath-1.21.5.jar
