@@ -1,0 +1,4 @@
+https://cdn.modrinth.com/data/pTE78v48/versions/F6NITZwQ/brokentoolmod-1.21.5.jar
+https://cdn.modrinth.com/data/nCtVPPGi/versions/lWpeKGgQ/chickenfeathermod-1.21.4.jar
+https://cdn.modrinth.com/data/IBWJ6GFS/versions/oJMtu85E/richstonermod-1.21.4.jar
+https://raw.githubusercontent.com/jblemee/multiworld/b528e592e71ccf168b9dbd00dda12bf10c14aa49/output/Multiworld-NeoForged-1.21.jar

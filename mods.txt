@@ -1,3 +1,0 @@
-https://cdn.modrinth.com/data/pTE78v48/versions/RO6MzKI4/brokentoolmod-1.21.4.jar
-https://cdn.modrinth.com/data/nCtVPPGi/versions/lWpeKGgQ/chickenfeathermod-1.21.4.jar
-https://cdn.modrinth.com/data/IBWJ6GFS/versions/oJMtu85E/richstonermod-1.21.4.jar
