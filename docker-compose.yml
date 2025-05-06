@@ -8,9 +8,9 @@ services:
       NEOFORGE_VERSION: beta
 #      MODPACK_PLATFORM: MODRINTH
 #      MODRINTH_MODPACK: https://modrinth.com/modpack/plus200-modpack/version/1.0.0
-#      MODS_FILE: /extras/mods.txt
-      MODS: |
-        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
+      MODS_FILE: /extras/mods.txt
+#      MODS: |
+#        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
     ports:
       - "25565:25565"
     volumes:
@@ -91,10 +91,10 @@ services:
       VERSION: "1.21.4"
       TYPE: NEOFORGE
       NEOFORGE_VERSION: latest
-#      MODS_FILE: /extras/mods.txt
+      MODS_FILE: /extras/mods.txt
 #      FORGE_FORCE_REINSTALL: true
-      MODS: |
-        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
+#      MODS: |
+#        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
     ports:
       - "25565:25565"
     volumes:
