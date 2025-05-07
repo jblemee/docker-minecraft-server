@@ -105,9 +105,45 @@ services:
     tty: true
     restart: unless-stopped
 
+  civilization:
+    image: itzg/minecraft-server
+    environment:
+      EULA: "true"
+      VERSION: "1.21.4"
+      TYPE: NEOFORGE
+      NEOFORGE_VERSION: latest
+      MODS_FILE: /extras/mods.txt
+      SEED: 751160772545378955
+      ICON: https://github.com/jblemee/PermaDeath/blob/main/src/main/resources/permadeath.png
+      MAX_PLAYERS: 1000
+      MAX_WORLD_SIZE: 40000
+      BUG_REPORT_LINK: https://github.com/jblemee/Civilization/issues/new
+      DIFFICULTY: normal
+      MOTD: |
+        §l§cCivilization§r Server
+        The §l§4permanent death§r experiment
+      MEMORY: ""
+      OPS: |
+        Plus200
+      JVM_XX_OPTS: "-XX:MaxRAMPercentage=75"
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+    ports:
+      - "25565:25565"
+    volumes:
+      - ./data_civ:/data
+      - ../:/mc-mods
+      - ./civilization.txt:/extras/mods.txt:ro
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+
 volumes:
   data: {}
   data_1_21_1: {}
   data_1_21_2: {}
   data_1_21_3: {}
   data_1_21_4: {}
+  data_civ: {}
