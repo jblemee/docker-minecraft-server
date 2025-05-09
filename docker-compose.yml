@@ -113,8 +113,8 @@ services:
       TYPE: NEOFORGE
       NEOFORGE_VERSION: latest
       MODS_FILE: /extras/mods.txt
-      SEED: 751160772545378955
-      ICON: https://github.com/jblemee/PermaDeath/blob/main/src/main/resources/permadeath.png
+      SEED: "-1515581825"
+      ICON: https://raw.githubusercontent.com/jblemee/PermaDeath/refs/heads/main/src/main/resources/permadeath.png
       MAX_PLAYERS: 1000
       MAX_WORLD_SIZE: 40000
       BUG_REPORT_LINK: https://github.com/jblemee/Civilization/issues/new
