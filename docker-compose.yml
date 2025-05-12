@@ -28,10 +28,10 @@ services:
       VERSION: "1.21.1"
       TYPE: NEOFORGE
       NEOFORGE_VERSION: latest
-#      MODS_FILE: /extras/mods.txt
+      MODS_FILE: /extras/mods.txt
 #      FORGE_FORCE_REINSTALL: true
-      MODS: |
-        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.1.jar
+#      MODS: |
+#        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.1.jar
     ports:
       - "25565:25565"
     volumes:
@@ -49,10 +49,10 @@ services:
       VERSION: "1.21.2"
       TYPE: NEOFORGE
       NEOFORGE_VERSION: beta
-      #      MODS_FILE: /extras/mods.txt
-      #      FORGE_FORCE_REINSTALL: true
-      MODS: |
-        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
+      MODS_FILE: /extras/mods.txt
+#      FORGE_FORCE_REINSTALL: true
+#      MODS: |
+#        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
     ports:
       - "25565:25565"
     volumes:
@@ -69,11 +69,11 @@ services:
       EULA: "true"
       VERSION: "1.21.3"
       TYPE: NEOFORGE
-      NEOFORGE_VERSION: beta
-      #      MODS_FILE: /extras/mods.txt
-      #      FORGE_FORCE_REINSTALL: true
-      MODS: |
-        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
+      NEOFORGE_VERSION: latest
+      MODS_FILE: /extras/mods.txt
+#      FORGE_FORCE_REINSTALL: true
+#      MODS: |
+#        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
     ports:
       - "25565:25565"
     volumes:
@@ -119,6 +119,9 @@ services:
       MAX_WORLD_SIZE: 40000
       BUG_REPORT_LINK: https://github.com/jblemee/Civilization/issues/new
       DIFFICULTY: normal
+      REQUIRE_RESOURCE_PACK: false
+      RESOURCE_PACK_ID: "a1259812-d2c2-310d-9a7d-2590d9ad6a32"
+      RESOURCE_PACK: https://github.com/jblemee/DiceMC-Money-Mod/releases/download/1.21.3/client-resource-pack.zip
       MOTD: |
         §l§cCivilization§r Server
         The §l§4permanent death§r experiment

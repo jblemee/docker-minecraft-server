@@ -1,7 +1,1 @@
-https://cdn.modrinth.com/data/pTE78v48/versions/F6NITZwQ/brokentoolmod-1.21.5.jar
-https://cdn.modrinth.com/data/nCtVPPGi/versions/lWpeKGgQ/chickenfeathermod-1.21.4.jar
-https://cdn.modrinth.com/data/IBWJ6GFS/versions/oJMtu85E/richstonermod-1.21.4.jar
-https://cdn.modrinth.com/data/d02pnaNW/versions/UnQwaMX0/permadeath-1.21.1.jar
-https://cdn.modrinth.com/data/KzjvlKEN/versions/jD45a6L5/GooeyLibs-Neoforge-3.1.1-1.21.x.jar
-/mc-mods/multiworld/output/Multiworld-NeoForged-1.21.2.jar
-/mc-mods/Civilization/build/libs/civilization-1.21.5.jar
+/mc-mods/DiceMC-Money-Mod/output/DiceMC Money-1.0.2.jar
