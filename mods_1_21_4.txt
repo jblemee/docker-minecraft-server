@@ -7,3 +7,4 @@ https://cdn.modrinth.com/data/KzjvlKEN/versions/jD45a6L5/GooeyLibs-Neoforge-3.1.
 https://github.com/IsaiahMC/multiworld/raw/refs/heads/master/output/Multiworld-NeoForged-1.21.2.jar
 https://github.com/jblemee/Civilization/raw/refs/heads/develop/output/civilization-1.21.5.jar
 https://github.com/jblemee/RandomTP/releases/download/9.0.1%2B1.21/randomtp-9.0.1+1.21.4-neoforge.jar
+/mc-mods/DiceMC-Money-Mod/output/DiceMC Money-1.0.2.jar
