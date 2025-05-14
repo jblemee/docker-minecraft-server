@@ -1,4 +1,4 @@
-https://cdn.modrinth.com/data/pTE78v48/versions/VUqUdBBj/brokentoolmod-1.21.4.jar
+#https://cdn.modrinth.com/data/pTE78v48/versions/VUqUdBBj/brokentoolmod-1.21.4.jar
 https://cdn.modrinth.com/data/nCtVPPGi/versions/lWpeKGgQ/chickenfeathermod-1.21.4.jar
 https://cdn.modrinth.com/data/IBWJ6GFS/versions/oJMtu85E/richstonermod-1.21.4.jar
 #https://cdn.modrinth.com/data/d02pnaNW/versions/UnQwaMX0/permadeath-1.21.1.jar
@@ -11,5 +11,7 @@ https://github.com/jblemee/RandomTP/releases/download/9.1.0%2B1.21/randomtp-9.1.
 #/mc-mods/RandomTP/neoforge/build/libs/randomtp-9.1.0+1.21.4-neoforge.jar
 https://github.com/jblemee/LuckPerms/releases/download/v1.21.4/LuckPerms-NeoForge-5.4.0.jar
 https://github.com/jblemee/DiceMC-Money-Mod/releases/download/1.21.3/DiceMC.Money-1.21.3-1.0.2.jar
+https://cdn.modrinth.com/data/e0M1UDsY/versions/I5jY2gQ2/collective-1.21.4-8.3.jar
+https://cdn.modrinth.com/data/lqQsKUma/versions/YdZQByAt/wooltweaks-1.21.4-3.9.jar
 #/mc-mods/DiceMC-Money-Mod/output/DiceMC Money-1.21.3-1.0.2.jar
 #https://cdn.modrinth.com/data/Si383TIH/versions/497DgI8m/flan-1.21.1-1.11.7-neoforge.jar
