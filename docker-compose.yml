@@ -112,6 +112,7 @@ services:
       VERSION: "1.21.4"
       TYPE: NEOFORGE
       NEOFORGE_VERSION: latest
+      FORGE_FORCE_REINSTALL: true
       MODS_FILE: /extras/mods.txt
       SEED: "-1515581825"
       ICON: https://raw.githubusercontent.com/jblemee/PermaDeath/refs/heads/main/src/main/resources/permadeath.png
