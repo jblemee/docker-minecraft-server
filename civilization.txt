@@ -16,4 +16,4 @@ https://cdn.modrinth.com/data/e0M1UDsY/versions/I5jY2gQ2/collective-1.21.4-8.3.j
 https://cdn.modrinth.com/data/lqQsKUma/versions/YdZQByAt/wooltweaks-1.21.4-3.9.jar
 https://cdn.modrinth.com/data/yQj7xqEM/versions/Gys018jh/inventorytotem-1.21.4-3.4.jar
 https://cdn.modrinth.com/data/6L3ydNi8/versions/b0tqDZaq/starterkit-1.21.4-7.4.jar
-#https://cdn.modrinth.com/data/Si383TIH/versions/497DgI8m/flan-1.21.1-1.11.7-neoforge.jar
+https://github.com/jblemee/Flan/releases/download/v1.21.4/flan-1.21.4-1.11.7.b-neoforge.jar

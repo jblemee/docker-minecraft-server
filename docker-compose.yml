@@ -26,9 +26,13 @@ services:
     environment:
       EULA: "true"
       VERSION: "1.21.1"
-      TYPE: NEOFORGE
-      NEOFORGE_VERSION: latest
+      TYPE: FABRIC
+#      NEOFORGE_VERSION: latest
+#      FABRIC_INSTALLER_VERSION: 1.0.1
+      FABRIC_LOADER_VERSION: 0.16.9
       MODS_FILE: /extras/mods.txt
+      MODRINTH_PROJECTS: |
+        fabric-api
 #      FORGE_FORCE_REINSTALL: true
 #      MODS: |
 #        /mc-mods/multiworld/output/Multiworld-NeoForged-1.21.1.jar
