@@ -1,1 +1,2 @@
-/mc-mods/DiceMC-Money-Mod/output/DiceMC Money-1.0.2.jar
+#/mc-mods/DiceMC-Money-Mod/output/DiceMC Money-1.0.2.jar
+/mc-mods/sgui/build/libs/sgui-1.9.1+1.21.5.jar
