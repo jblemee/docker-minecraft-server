@@ -1,10 +1,11 @@
-https://cdn.modrinth.com/data/pTE78v48/versions/RO6MzKI4/brokentoolmod-1.21.4.jar
-https://cdn.modrinth.com/data/nCtVPPGi/versions/lWpeKGgQ/chickenfeathermod-1.21.4.jar
-https://cdn.modrinth.com/data/IBWJ6GFS/versions/oJMtu85E/richstonermod-1.21.4.jar
+#https://cdn.modrinth.com/data/pTE78v48/versions/RO6MzKI4/brokentoolmod-1.21.4.jar
+#https://cdn.modrinth.com/data/nCtVPPGi/versions/lWpeKGgQ/chickenfeathermod-1.21.4.jar
+#https://cdn.modrinth.com/data/IBWJ6GFS/versions/oJMtu85E/richstonermod-1.21.4.jar
 #https://cdn.modrinth.com/data/d02pnaNW/versions/UnQwaMX0/permadeath-1.21.1.jar
-/mc-mods/PermaDeath/output/permadeath-1.21.1-2.jar
-https://cdn.modrinth.com/data/KzjvlKEN/versions/jD45a6L5/GooeyLibs-Neoforge-3.1.1-1.21.x.jar
-https://github.com/IsaiahMC/multiworld/raw/refs/heads/master/output/Multiworld-NeoForged-1.21.2.jar
-https://github.com/jblemee/Civilization/raw/refs/heads/develop/output/civilization-1.21.5.jar
-https://github.com/jblemee/RandomTP/releases/download/9.0.1%2B1.21/randomtp-9.0.1+1.21.4-neoforge.jar
-/mc-mods/DiceMC-Money-Mod/output/DiceMC Money-1.0.2.jar
+#/mc-mods/PermaDeath/output/permadeath-1.21.1-2.jar
+#https://cdn.modrinth.com/data/KzjvlKEN/versions/jD45a6L5/GooeyLibs-Neoforge-3.1.1-1.21.x.jar
+#https://github.com/IsaiahMC/multiworld/raw/refs/heads/master/output/Multiworld-NeoForged-1.21.2.jar
+#https://github.com/jblemee/Civilization/raw/refs/heads/develop/output/civilization-1.21.5.jar
+#https://github.com/jblemee/RandomTP/releases/download/9.0.1%2B1.21/randomtp-9.0.1+1.21.4-neoforge.jar
+#/mc-mods/DiceMC-Money-Mod/output/DiceMC Money-1.0.2.jar
+/mc-mods/Flan/neoforge/build/libs/flan-1.21.4-1.11.7.b-neoforge.jar

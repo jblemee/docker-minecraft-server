@@ -1,7 +1,8 @@
 #https://cdn.modrinth.com/data/7Aa1dFtb/versions/B64t8egN/realeconomy-0.1.0%2B1.21.1-fabric.jar
 #https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar
 #https://cdn.modrinth.com/data/Vebnzrzj/versions/l47d4ZWk/LuckPerms-Fabric-5.4.140.jar
-/mc-mods/AuctionHouse/output/auctionhouse-1.2.0+1.21.1-neoforge.jar
+#https://cdn.modrinth.com/data/yi6R1xuo/versions/HfzXEL0s/auctionhouse-1.2.0%2B1.21.1-neoforge.jar
+https://cdn.modrinth.com/data/yi6R1xuo/versions/O9xevSpM/auctionhouse-1.2.3%2B1.21.1-neoforge.jar
 https://github.com/jblemee/minecraft-sqlite-jdbc/releases/download/v1.21-neoforge/sqlite-jdbc-3.49.1.0+2025-04-30-all.jar
 https://cdn.modrinth.com/data/7Aa1dFtb/versions/Ce62vsy0/realeconomy-0.1.0%2B1.21.1-neoforge.jar
 https://cdn.modrinth.com/data/Vebnzrzj/versions/dKAPoPGd/LuckPerms-NeoForge-5.4.150.jar
