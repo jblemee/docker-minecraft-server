@@ -18,3 +18,4 @@ https://cdn.modrinth.com/data/yQj7xqEM/versions/Gys018jh/inventorytotem-1.21.4-3
 https://cdn.modrinth.com/data/6L3ydNi8/versions/b0tqDZaq/starterkit-1.21.4-7.4.jar
 https://github.com/jblemee/Flan/releases/download/v1.11.8.b-1.21.4-neoforge/flan-1.21.4-1.11.8.b-neoforge.jar
 https://cdn.modrinth.com/data/EwJ8fcSB/versions/nwmvVArV/erodingstoneentities-1.21.4-4.7.jar
+https://cdn.modrinth.com/data/nasjrNgl/versions/7RoBS6kB/recycle-blast-1.61.0.jar
