@@ -3,9 +3,9 @@ services:
     image: itzg/minecraft-server
     environment:
       EULA: "true"
-      VERSION: latest
+      VERSION: "1.21.5"
       TYPE: NEOFORGE
-      NEOFORGE_VERSION: beta
+      NEOFORGE_VERSION: latest
 #      MODPACK_PLATFORM: MODRINTH
 #      MODRINTH_MODPACK: https://modrinth.com/modpack/plus200-modpack/version/1.0.0
       MODS_FILE: /extras/mods.txt
@@ -113,9 +113,9 @@ services:
     image: itzg/minecraft-server
     environment:
       EULA: "true"
-      VERSION: "1.21.4"
+      VERSION: "1.21.5"
       TYPE: NEOFORGE
-      NEOFORGE_VERSION: latest
+      NEOFORGE_VERSION: 21.5.69
       FORGE_FORCE_REINSTALL: true
       MODS_FILE: /extras/mods.txt
       SEED: "-1515581825"
