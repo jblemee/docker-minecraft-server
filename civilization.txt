@@ -9,13 +9,13 @@ https://github.com/jblemee/Civilization/raw/refs/heads/develop/output/civilizati
 #/mc-mods/Civilization/output/civilization-1.21.5.jar
 #https://github.com/jblemee/RandomTP/releases/download/9.1.0%2B1.21/randomtp-9.1.0+1.21.4-neoforge.jar
 #/mc-mods/RandomTP/neoforge/build/libs/randomtp-9.1.0+1.21.4-neoforge.jar
-https://github.com/jblemee/LuckPerms/releases/download/v1.21.5/LuckPerms-NeoForge-5.5.12.jar
+https://cdn.modrinth.com/data/Vebnzrzj/versions/OH7DEFzL/LuckPerms-NeoForge-5.5.9.jar
 #https://github.com/jblemee/DiceMC-Money-Mod/releases/download/1.21.3/DiceMC.Money-1.21.3-1.0.2.jar
-https://github.com/jblemee/DiceMC-Money-Mod/releases/download/v1.21.5/DiceMC.Money-1.21.5-1.0.3.jar
-https://cdn.modrinth.com/data/e0M1UDsY/versions/aCWSF57s/collective-1.21.5-8.3.jar
-https://cdn.modrinth.com/data/lqQsKUma/versions/uvT1mFRk/wooltweaks-1.21.5-3.9.jar
-https://cdn.modrinth.com/data/yQj7xqEM/versions/GBDXBng9/inventorytotem-1.21.5-3.4.jar
-https://cdn.modrinth.com/data/6L3ydNi8/versions/qb3n4Wyb/starterkit-1.21.5-7.4.jar
-https://cdn.modrinth.com/data/Si383TIH/versions/cS5Ix1Z5/flan-1.21.5-1.11.11-neoforge.jar
-https://cdn.modrinth.com/data/EwJ8fcSB/versions/PwzaHM1K/erodingstoneentities-1.21.5-4.7.jar
+###### NEED UPDATE https://github.com/jblemee/DiceMC-Money-Mod/releases/download/v1.21.5/DiceMC.Money-1.21.5-1.0.3.jar
+https://cdn.modrinth.com/data/e0M1UDsY/versions/1vOnuu89/collective-1.21.7-8.4.jar
+https://cdn.modrinth.com/data/lqQsKUma/versions/6fSIrg4o/wooltweaks-1.21.7-4.0.jar
+https://cdn.modrinth.com/data/yQj7xqEM/versions/e467R417/inventorytotem-1.21.7-3.4.jar
+https://cdn.modrinth.com/data/6L3ydNi8/versions/CUPSG9tC/starterkit-1.21.7-7.4.jar
+####### NEED UPDATE https://cdn.modrinth.com/data/Si383TIH/versions/cS5Ix1Z5/flan-1.21.5-1.11.11-neoforge.jar
+https://cdn.modrinth.com/data/EwJ8fcSB/versions/r9ZlZYoZ/erodingstoneentities-1.21.7-4.7.jar
 https://cdn.modrinth.com/data/nasjrNgl/versions/7RoBS6kB/recycle-blast-1.61.0.jar

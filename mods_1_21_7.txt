@@ -1,0 +1,10 @@
+https://cdn.modrinth.com/data/pTE78v48/versions/F6NITZwQ/brokentoolmod-1.21.5.jar
+https://cdn.modrinth.com/data/nCtVPPGi/versions/lWpeKGgQ/chickenfeathermod-1.21.4.jar
+https://cdn.modrinth.com/data/IBWJ6GFS/versions/oJMtu85E/richstonermod-1.21.4.jar
+https://cdn.modrinth.com/data/Vebnzrzj/versions/OH7DEFzL/LuckPerms-NeoForge-5.5.9.jar
+https://cdn.modrinth.com/data/e0M1UDsY/versions/1vOnuu89/collective-1.21.7-8.4.jar
+https://cdn.modrinth.com/data/lqQsKUma/versions/6fSIrg4o/wooltweaks-1.21.7-4.0.jar
+https://cdn.modrinth.com/data/yQj7xqEM/versions/e467R417/inventorytotem-1.21.7-3.4.jar
+https://cdn.modrinth.com/data/6L3ydNi8/versions/CUPSG9tC/starterkit-1.21.7-7.4.jar
+https://cdn.modrinth.com/data/EwJ8fcSB/versions/r9ZlZYoZ/erodingstoneentities-1.21.7-4.7.jar
+https://cdn.modrinth.com/data/nasjrNgl/versions/7RoBS6kB/recycle-blast-1.61.0.jar
